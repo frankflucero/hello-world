@@ -1,3 +1,3 @@
 # hello-world
 Initial repository
-will move some content frim other account
+will move some content from other account
